@@ -1,0 +1,9 @@
+#Julio César Méndez Cortez, Folio: 9314RL05, Fecha: 6-08-2022
+#Programa para solicitar a usuario ingrese su nombre y se imprime un saludo
+
+nombre = input("Ingresa tu nombre completo: ")
+saludo = "Bienvenido al taller de Escuela de código"
+concatenacion = nombre + " " + saludo
+
+print(concatenacion)
+
